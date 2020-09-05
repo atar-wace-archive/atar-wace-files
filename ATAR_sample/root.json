@@ -1,0 +1,385 @@
+[{
+    "text" : "ROOT",
+    "state" : { "opened" : true },
+    "children" : [
+{ "text" : "accounting-and-finance", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "ACF-MultiChoice-15-2016-Yellow-47518-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" }]}]},
+{ "text" : "ancient-history", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Ancient_History_Sample_Document_Booklet_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160307155811/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/9816/Ancient_History_Sample_Document_Booklet_2016.pdf" },
+{ "text" : "Ancient_History_Sample_Examination_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160307155821/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/9817/Ancient_History_Sample_Examination_2016.pdf" },
+{ "text" : "Ancient_History_Sample_Marking_Key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160307155825/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/9818/Ancient_History_Sample_Marking_Key_2016.pdf" },
+{ "text" : "Written-Front-Cover-Ancient-History-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/195337/Written-Front-Cover-Ancient-History-exam-2016.PDF" }]}]},
+{ "text" : "animal-production-systems", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "APS-MultiChoice-20-2016-Green-7490-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Written-Front-Cover-Animal-Production-Systems-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/195387/Written-Front-Cover-Animal-Production-Systems-exam-2016.PDF" }]}]},
+{ "text" : "applied-information-technology", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "AIT-MultiChoice-15-2016-Yellow-47518-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Written-Front-Cover-Applied-Information-Technology-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/195345/Written-Front-Cover-Applied-Information-Technology-exam-2016.PDF" }]}]},
+{ "text" : "aviation", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "AVN-MultiChoice-20-2016-Green-7490-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "AVN_Aviation_ATAR_Practical-examination-requirements-_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170301025354/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/74533/AVN_Aviation_ATAR_Practical-examination-requirements-_2016.pdf" },
+{ "text" : "Written-Front-Cover-Aviation-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/195369/Written-Front-Cover-Aviation-exam-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Aviation-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/195256/Practical-Front-Cover-Aviation-2016.PDF" }]}]},
+{ "text" : "biology", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Biology_Sample-Marking_key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160315170810/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/14892/Biology_Sample-Marking_key_2016.pdf" },
+{ "text" : "Biology_sample_exam_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160315170757/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/14891/Biology_sample_exam_2016.pdf" },
+{ "text" : "BLY-MultiChoice-30-2016-Pink-14406-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Written-Front-Cover-Biology-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/195349/Written-Front-Cover-Biology-exam-2016.PDF" }]}]},
+{ "text" : "business-management-and-enterprise", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Written-Front-Cover-Business-management-and-enterprise-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0011/195383/Written-Front-Cover-Business-management-and-enterprise-exam-2016.PDF" }]}]},
+{ "text" : "career-and-enterprise", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Written-Front-Cover-Career-and-Enterprise-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/195339/Written-Front-Cover-Career-and-Enterprise-exam-2016.PDF" }]}]},
+{ "text" : "chemistry", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "CHE-MultiChoice-25-2016-Blue-45796-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Chemistry_Sample_exam_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170331010652/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/10587/Chemistry_Sample_exam_2016.PDF" },
+{ "text" : "Chemistry_Sample_Marking_Key_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170331010659/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/10588/Chemistry_Sample_Marking_Key_2016.PDF" },
+{ "text" : "Written-Front-Cover-Chemistry-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0011/195374/Written-Front-Cover-Chemistry-exam-2016.PDF" }]}]},
+{ "text" : "children,-family-and-the-community", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "CFC-MultiChoice-10-2016-Sand-15526-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" }]}]},
+{ "text" : "chinese-second-language", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Chinese-Second-Language-practical-oral-ATAR-examination-requirements-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170301025744/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/74535/Chinese-Second-Language-practical-oral-ATAR-examination-requirements-2016.pdf" },
+{ "text" : "CSL-practical-oral-marking-key-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160329144954/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/74593/CSL-practical-oral-marking-key-2016_pdf.pdf" },
+{ "text" : "Written-Front-Cover-Chinese-Second-Language-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/195348/Written-Front-Cover-Chinese-Second-Language-exam-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Chinese-Second-Language-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0011/195257/Practical-Front-Cover-Chinese-Second-Language-2016.PDF" }]}]},
+{ "text" : "computer-science", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Written-Front-Cover-Computer-Science-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/195354/Written-Front-Cover-Computer-Science-exam-2016.PDF" }]}]},
+{ "text" : "dance", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "11-12-Circular-re-Distribution-to-Schools-of-2016-Dance-ATAR-course-written-examination-stimulus-material.DOCX", "type" : "doc", "url" : "web.archive.org/20170301030450/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0019/202924/11-12-Circular-re-Distribution-to-Schools-of-2016-Dance-ATAR-course-written-examination-stimulus-material.DOCX" },
+{ "text" : "11-12-Circular-re-Distribution-to-Schools-of-2016-Dance-ATAR-course-written-examination-stimulus-material_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20170301030444/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0020/202925/11-12-Circular-re-Distribution-to-Schools-of-2016-Dance-ATAR-course-written-examination-stimulus-material_pdf.pdf" },
+{ "text" : "DAN-statement-of-choreographic-intent-2016.DOCX", "type" : "doc", "url" : "web.archive.org/20170301030457/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0019/201916/DAN-statement-of-choreographic-intent-2016.DOCX" },
+{ "text" : "DAN-statement-of-choreographic-intent-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20170301030453/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0020/201953/DAN-statement-of-choreographic-intent-2016_pdf.pdf" },
+{ "text" : "Dance-2016-declaration-of-authenticity.PDF", "type" : "pdf", "url" : "web.archive.org/20170301030439/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0020/201917/Dance-2016-declaration-of-authenticity.PDF" },
+{ "text" : "Dance-ATAR-course-Practical-performance-examination-requirements-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170301030432/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/74537/Dance-ATAR-course-Practical-performance-examination-requirements-2016.pdf" },
+{ "text" : "Dance-ATAR-course-Practical-performance-marking-key-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160324130300/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/74595/Dance-ATAR-course-Practical-performance-marking-key-2016_pdf.pdf" },
+{ "text" : "Practical-Front-Cover-Dance-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/195258/Practical-Front-Cover-Dance-2016.PDF" },
+{ "text" : "Written-Front-Cover-Dance-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/195344/Written-Front-Cover-Dance-exam-2016.PDF" }]}]},
+{ "text" : "design", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Design-2016-Declaration-of-authenticity.PDF", "type" : "pdf", "url" : "web.archive.org/20170301030850/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/202110/Design-2016-Declaration-of-authenticity.PDF" },
+{ "text" : "Design-designer-statement-2016.DOCX", "type" : "doc", "url" : "web.archive.org/20170301030856/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0007/202111/Design-designer-statement-2016.DOCX" },
+{ "text" : "Design-designer-statement-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20170301030853/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/202112/Design-designer-statement-2016_pdf.pdf" },
+{ "text" : "Design-References-acknowledgements-form-2016.DOCX", "type" : "doc", "url" : "web.archive.org/20170301030903/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0009/202113/Design-References-acknowledgements-form-2016.DOCX" },
+{ "text" : "Design-References-acknowledgements-form-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20170301030858/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/202114/Design-References-acknowledgements-form-2016_pdf.pdf" },
+{ "text" : "Design_Examination-Development_2016-DES-ATAR-course-practical-portfolio-requirements-document_210116.pdf", "type" : "pdf", "url" : "web.archive.org/20170301030842/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/74539/Design_Examination-Development_2016-DES-ATAR-course-practical-portfolio-requirements-document_210116.pdf" },
+{ "text" : "Design_Examination-development_2016-DES-ATAR-provisional-marking-key_270116_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160324130604/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/74597/Design_Examination-development_2016-DES-ATAR-provisional-marking-key_270116_pdf.pdf" },
+{ "text" : "Practical-Front-Cover-Design-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/195259/Practical-Front-Cover-Design-2016.PDF" },
+{ "text" : "Written-Front-Cover-Design-Exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/195367/Written-Front-Cover-Design-Exam-2016.PDF" }]}]},
+{ "text" : "drama", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Drama-2016-declaration-of-authenticity.PDF", "type" : "pdf", "url" : "web.archive.org/20170301023631/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/201954/Drama-2016-declaration-of-authenticity.PDF" },
+{ "text" : "Drama-ATAR-course-Practical-performance-examination-requirements-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170301023615/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/74541/Drama-ATAR-course-Practical-performance-examination-requirements-2016.pdf" },
+{ "text" : "Drama-ATAR-course-Practical-performance-marking-key-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160324131004/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/74599/Drama-ATAR-course-Practical-performance-marking-key-2016_pdf.pdf" },
+{ "text" : "Drama_Sample_Exam_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160304042743/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/9465/Drama_Sample_Exam_2016.pdf" },
+{ "text" : "Drama_Sample_Marking_Key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160304042750/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/9469/Drama_Sample_Marking_Key_2016.pdf" },
+{ "text" : "Drama-2016-script-cover-page-original-solo-performance_pdf.pdf", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/201956/Drama-2016-script-cover-page-original-solo-performance_pdf.pdf" },
+{ "text" : "Drama-2016-Script-cover-page-scripted-monologue_pdf.pdf", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/201958/Drama-2016-Script-cover-page-scripted-monologue_pdf.pdf" },
+{ "text" : "Drama-2016-guide-to-completion-of-practical-examination-cover-pages.pdf", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/336888/Drama-2016-guide-to-completion-of-practical-examination-cover-pages.pdf" },
+{ "text" : "Drama-2016-script-cover-page-original-solo-performance.DOCX", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0004/201955/Drama-2016-script-cover-page-original-solo-performance.DOCX" },
+{ "text" : "Drama-2016-Script-cover-page-scripted-monologue.DOCX", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0006/201957/Drama-2016-Script-cover-page-scripted-monologue.DOCX" },
+{ "text" : "Drama-2016-guide-to-completion-of-practical-examination-cover-pages.DOCX", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0008/336887/Drama-2016-guide-to-completion-of-practical-examination-cover-pages.DOCX" }]}]},
+{ "text" : "earth-and-environmental-science", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Earth_and_Environmental_Science_Sample_exam_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160315171547/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0015/10761/Earth_and_Environmental_Science_Sample_exam_2016.pdf" },
+{ "text" : "Earth_and_Environmental_Science_Sample_Marking_key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160315171556/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0017/10763/Earth_and_Environmental_Science_Sample_Marking_key_2016.pdf" },
+{ "text" : "EES-MultiChoice-15-2016-Yellow-47518-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Written-Front-Cover-Earth-and-Environmental-Science-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/195362/Written-Front-Cover-Earth-and-Environmental-Science-exam-2016.PDF" }]}]},
+{ "text" : "economics", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "ECO-MultiChoice-24-2016-Grey-48923-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Written-Front-Cover-Economics-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0011/195356/Written-Front-Cover-Economics-exam-2016.PDF" }]}]},
+{ "text" : "engineering-studies", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Engineering_Studies_Sample_Exam_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160318202311/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/11289/Engineering_Studies_Sample_Exam_2016.pdf" },
+{ "text" : "Engineering_Studies_Sample_Marking_Key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160318202321/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0014/11291/Engineering_Studies_Sample_Marking_Key_2016.pdf" },
+{ "text" : "EST-MultiChoice-1010-Buff-EST-2016-43827-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Written-Front-Cover-Engineering-Studies-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/195343/Written-Front-Cover-Engineering-Studies-exam-2016.PDF" }]}]},
+{ "text" : "english2", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "ENG-Section-One-Sample-2-Marking-key_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160229072317/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0019/5824/ENG-Section-One-Sample-2-Marking-key_pdf.pdf" },
+{ "text" : "ENG-Section-One-Sample-3-marking-key-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160229072326/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0020/5825/ENG-Section-One-Sample-3-marking-key-2016_pdf.pdf" },
+{ "text" : "English-Sample-2-Section-One-Exam_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20160229072311/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0017/5822/English-Sample-2-Section-One-Exam_2016.PDF" },
+{ "text" : "English-Sample-3-Section-One-Exam_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20160229072320/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0018/5823/English-Sample-3-Section-One-Exam_2016.PDF" },
+{ "text" : "English_Sample_exam_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20160229072328/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0015/5820/English_Sample_exam_2016.PDF" },
+{ "text" : "English_Sample_Marking_Key_2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160229072339/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0016/5821/English_Sample_Marking_Key_2016_pdf.pdf" },
+{ "text" : "Written-Front-Cover-English-exam-2016.PDF", "type" : "pdf", "url" : "web.archive.org/20161019173236/http://wace1516.scsa.wa.edu.au:80/__data/assets/pdf_file/0008/195371/Written-Front-Cover-English-exam-2016.PDF" }]}]},
+{ "text" : "english-as-an-additional-language-or-dialect", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "EALD_Sample_exam_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160229073121/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0020/9164/EALD_Sample_exam_2016.pdf" },
+{ "text" : "EALD_Sample_Recording_Script_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160229073116/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/9165/EALD_Sample_Recording_Script_2016.pdf" },
+{ "text" : "EALD_Sample_written_marking_key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160229073126/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/9166/EALD_Sample_written_marking_key_2016.pdf" },
+{ "text" : "ELD-ATAR-course-practical-oral-marking-key-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160327040407/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0018/74601/ELD-ATAR-course-practical-oral-marking-key-2016_pdf.pdf" },
+{ "text" : "English-as-an-Additional-Language-or-Dialect-ATAR-course-Practical-requirements-for-Overseas-candidates-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170301031539/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/74543/English-as-an-Additional-Language-or-Dialect-ATAR-course-Practical-requirements-for-Overseas-candidates-2016.pdf" },
+{ "text" : "English-as-an-Additional-Language-or-Dialect-ATAR-course-Practical-requirements-for-WA-Candidates-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170301031545/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/74545/English-as-an-Additional-Language-or-Dialect-ATAR-course-Practical-requirements-for-WA-Candidates-2016.pdf" },
+{ "text" : "Practical-Front-Cover-ELD-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/195261/Practical-Front-Cover-ELD-2016.PDF" },
+{ "text" : "Written-Front-Cover-ELD-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/195355/Written-Front-Cover-ELD-exam-2016.PDF" }]}]},
+{ "text" : "food-science-and-technology", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "FST-MultiChoice-15-2016-Yellow-47518-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Written-Front-Cover-Food-Science-and-Technology-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0011/195347/Written-Front-Cover-Food-Science-and-Technology-exam-2016.PDF" }]}]},
+{ "text" : "french-background-language", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "2016-French-background-language-Personal-Investigation-Interview-Sheet.DOCX", "type" : "doc", "url" : "web.archive.org/20170301032317/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0008/202130/2016-French-background-language-Personal-Investigation-Interview-Sheet.DOCX" },
+{ "text" : "2016-French-background-language-Personal-Investigation-Interview-Sheet_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20170301032314/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/202131/2016-French-background-language-Personal-Investigation-Interview-Sheet_pdf.pdf" },
+{ "text" : "2016-French-background-Section-1.mp3", "type" : "mp3", "url" : "web.archive.org/20160312122616/http://wace1516.scsa.wa.edu.au/__data/assets/mp3_file/0012/13620/2016-French-background-Section-1.mp3" },
+{ "text" : "French-Background-Languages-Practical-oral-examination-requirements-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170301032153/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/74547/French-Background-Languages-Practical-oral-examination-requirements-2016.pdf" },
+{ "text" : "French-Background-Practical-Language-oral-marking-key-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160329145758/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0020/74603/French-Background-Practical-Language-oral-marking-key-2016_pdf.pdf" },
+{ "text" : "French-Recording_script_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160312122738/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/10968/French-Recording_script_2016.pdf" },
+{ "text" : "French_Background_Languages_Sample_Exam_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160312122741/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/10966/French_Background_Languages_Sample_Exam_2016.pdf" },
+{ "text" : "French_Written_marking_key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160312122745/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/10967/French_Written_marking_key_2016.pdf" },
+{ "text" : "Practical-Front-Cover-French-Background-Language-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/195262/Practical-Front-Cover-French-Background-Language-2016.PDF" },
+{ "text" : "Written-Front-Cover-French-Background-Languages-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/195334/Written-Front-Cover-French-Background-Languages-exam-2016.PDF" }]}]},
+{ "text" : "french-second-language", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "French-Second-Language-ATAR-course-Practical-oral-examination-requirements-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170301032545/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0011/74549/French-Second-Language-ATAR-course-Practical-oral-examination-requirements-2016.pdf" },
+{ "text" : "French-Second-Language-ATAR-course-practical-oral-marking-key-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170301032539/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/74605/French-Second-Language-ATAR-course-practical-oral-marking-key-2016.pdf" },
+{ "text" : "Written-Front-Cover-French-Second-Language-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/195357/Written-Front-Cover-French-Second-Language-exam-2016.PDF" },
+{ "text" : "Practical-Front-Cover-French-Second-Language-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0011/195266/Practical-Front-Cover-French-Second-Language-2016.PDF" }]}]},
+{ "text" : "geography", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "GEO-MultiChoice-20-2016-Green-7490-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Geography-Broadsheet-2016-A2-print-A3.PDF", "type" : "pdf", "url" : "web.archive.org/20170224235027/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0018/345240/Geography-Broadsheet-2016-A2-print-A3.PDF" },
+{ "text" : "Geography-Broadsheet-A2-2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170224234927/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/345239/Geography-Broadsheet-A2-2016.PDF" },
+{ "text" : "Geography-exam-2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170224234923/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/345238/Geography-exam-2016.PDF" },
+{ "text" : "Geography_Sample_Broadsheet_A2_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20160324124800/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/62526/Geography_Sample_Broadsheet_A2_2016.PDF" },
+{ "text" : "Geography_Sample_Broadsheet_A3_2016_reduced.pdf", "type" : "pdf", "url" : "web.archive.org/20160307161455/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0015/13623/Geography_Sample_Broadsheet_A3_2016_reduced.pdf" },
+{ "text" : "Geography_Sample_Marking_Key_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170410061717/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0018/10098/Geography_Sample_Marking_Key_2016.PDF" },
+{ "text" : "Geography_Stage_3_sample_exam_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160307161433/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0019/10099/Geography_Stage_3_sample_exam_2016.pdf" }]}]},
+{ "text" : "german-background-language", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "2016-German-background-language-Personal-Investigation-Interview-Sheet.DOCX", "type" : "doc", "url" : "web.archive.org/20170309100158/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0016/202165/2016-German-background-language-Personal-Investigation-Interview-Sheet.DOCX" },
+{ "text" : "2016-German-background-language-Personal-Investigation-Interview-Sheet_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20170309100151/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0017/202166/2016-German-background-language-Personal-Investigation-Interview-Sheet_pdf.pdf" },
+{ "text" : "2016-German-background-Section-1.mp3", "type" : "mp3", "url" : "web.archive.org/20160312123348/http://wace1516.scsa.wa.edu.au/__data/assets/mp3_file/0013/13621/2016-German-background-Section-1.mp3" },
+{ "text" : "German-Background-Language-Practical-oral-examination-requirements-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170309100141/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/74551/German-Background-Language-Practical-oral-examination-requirements-2016.pdf" },
+{ "text" : "German-Background-Language-Practical-oral-marking-key-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160329150510/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/74607/German-Background-Language-Practical-oral-marking-key-2016_pdf.pdf" },
+{ "text" : "German_Backgound_Language_Sample_Recording_transcript_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160312123423/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0015/11094/German_Backgound_Language_Sample_Recording_transcript_2016.pdf" },
+{ "text" : "German_Background_Languages_Sample_exam_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160312123427/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0014/11093/German_Background_Languages_Sample_exam_2016.pdf" },
+{ "text" : "GERMAN_Written_marking_key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160312123439/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0016/11095/GERMAN_Written_marking_key_2016.pdf" },
+{ "text" : "Practical-Front-Cover-German-Background-Language-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/195267/Practical-Front-Cover-German-Background-Language-2016.PDF" },
+{ "text" : "Written-Front-Cover-German-Background-Languages-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/195342/Written-Front-Cover-German-Background-Languages-exam-2016.PDF" }]}]},
+{ "text" : "german-second-language", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "German-Second-Language-ATAR-course-Practical-oral-examination-requirements-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160329150116/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/74553/German-Second-Language-ATAR-course-Practical-oral-examination-requirements-2016_pdf.pdf" },
+{ "text" : "German-Second-Language-ATAR-course-practical-oral-marking-key-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170309100452/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/74609/German-Second-Language-ATAR-course-practical-oral-marking-key-2016.pdf" },
+{ "text" : "Practical-Front-Cover-German-Second-Language-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/195268/Practical-Front-Cover-German-Second-Language-2016.PDF" },
+{ "text" : "Written-Front-Cover-German-Second-Language-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/195381/Written-Front-Cover-German-Second-Language-exam-2016.PDF" }]}]},
+{ "text" : "health-studies", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "HEA-MultiChoice-20-2016-Green-7490-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Written-Front-Cover-Health-Studies-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/195388/Written-Front-Cover-Health-Studies-exam-2016.PDF" }]}]},
+{ "text" : "human-biology", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "HBY-MultiChoice-30-2016-Pink-14406-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Written-Front-Cover-Human-Biology-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/195350/Written-Front-Cover-Human-Biology-exam-2016.PDF" }]}]},
+{ "text" : "indonesian-second-language", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "IND-practical-oral-marking-key-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160329150804/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0019/74611/IND-practical-oral-marking-key-2016_pdf.pdf" },
+{ "text" : "Indonesian-Second-Language-practical-oral-ATAR-examination-requirements-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160329150757/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/74555/Indonesian-Second-Language-practical-oral-ATAR-examination-requirements-2016_pdf.pdf" }]}]},
+{ "text" : "integrated-science", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "ISC-MultiChoice-20-2016-Green-7490-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Written-Front-Cover-Integrated-Science-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0011/195338/Written-Front-Cover-Integrated-Science-exam-2016.PDF" }]}]},
+{ "text" : "italian-background-language", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "2016-Italian-background-language-Personal-Investigation-Interview-Sheet.DOCX", "type" : "doc", "url" : "web.archive.org/20170309102715/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0018/202167/2016-Italian-background-language-Personal-Investigation-Interview-Sheet.DOCX" },
+{ "text" : "2016-Italian-background-language-Personal-Investigation-Interview-Sheet_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20170309102703/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0019/202168/2016-Italian-background-language-Personal-Investigation-Interview-Sheet_pdf.pdf" },
+{ "text" : "2016-Italian-background-Section-1-1.mp3", "type" : "mp3", "url" : "web.archive.org/20160312124748/http://wace1516.scsa.wa.edu.au/__data/assets/mp3_file/0014/13622/2016-Italian-background-Section-1-1.mp3" },
+{ "text" : "Italian-Background-Language-Practical-oral-examination-requirements-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170309102430/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0011/74558/Italian-Background-Language-Practical-oral-examination-requirements-2016.pdf" },
+{ "text" : "Italian-Background-Language-Practical-oral-marking-key-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160329151754/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/74613/Italian-Background-Language-Practical-oral-marking-key-2016_pdf.pdf" },
+{ "text" : "Italian-background-languages-sample-exam-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160312124849/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/11222/Italian-background-languages-sample-exam-2016.pdf" },
+{ "text" : "Italian-background-recording-transcript-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160312124846/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/11224/Italian-background-recording-transcript-2016.pdf" },
+{ "text" : "Italian-background-Written_marking_key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160312124853/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/11223/Italian-background-Written_marking_key_2016.pdf" },
+{ "text" : "Practical-Front-Cover-Italian-Background-Language-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/195270/Practical-Front-Cover-Italian-Background-Language-2016.PDF" },
+{ "text" : "Written-Front-Cover-Italian-Background-Language-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/195380/Written-Front-Cover-Italian-Background-Language-exam-2016.PDF" }]}]},
+{ "text" : "italian-second-language", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Italian-Second-language-ATAR-course-Practical-oral-examination-requirements-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170309103207/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/74560/Italian-Second-language-ATAR-course-Practical-oral-examination-requirements-2016.pdf" },
+{ "text" : "Italian-Second-Language-ATAR-course-practical-oral-marking-key-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170309103213/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/74615/Italian-Second-Language-ATAR-course-practical-oral-marking-key-2016.pdf" },
+{ "text" : "Practical-Front-Cover-Italian-Second-Language-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/195271/Practical-Front-Cover-Italian-Second-Language-2016.PDF" },
+{ "text" : "Written-Front-Cover-Italian-Second-Language-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/195373/Written-Front-Cover-Italian-Second-Language-exam-2016.PDF" }]}]},
+{ "text" : "japanese-first-language", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Glossary-of-key-words-used-in-the-formulation-of-questions.DOCX", "type" : "doc", "url" : "web.archive.org/20170225000741/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0005/348548/Glossary-of-key-words-used-in-the-formulation-of-questions.DOCX" },
+{ "text" : "Glossary-of-key-words-used-in-the-formulation-of-questions.pdf", "type" : "pdf", "url" : "web.archive.org/20170215033637/http://wace1516.scsa.wa.edu.au:80/__data/assets/pdf_file/0006/348549/Glossary-of-key-words-used-in-the-formulation-of-questions.pdf" }]}]},
+{ "text" : "japanese-second-language", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Japanese-Second-Language-practical-oral-ATAR-examination-requirements-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160329152010/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/74562/Japanese-Second-Language-practical-oral-ATAR-examination-requirements-2016_pdf.pdf" },
+{ "text" : "JSL-practical-oral-marking-key-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160329152016/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/74617/JSL-practical-oral-marking-key-2016_pdf.pdf" },
+{ "text" : "Written-Front-Cover-Japanese-Second-Language-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/195332/Written-Front-Cover-Japanese-Second-Language-exam-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Japanese-Second-Language-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/195272/Practical-Front-Cover-Japanese-Second-Language-2016.PDF" }]}]},
+{ "text" : "literature", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Literature_Sample_exam_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20160304045044/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/8828/Literature_Sample_exam_2016.PDF" },
+{ "text" : "Literature_Sample_Marking_Key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160304045054/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/8829/Literature_Sample_Marking_Key_2016.pdf" },
+{ "text" : "Written-Front-Cover-Literature-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/195351/Written-Front-Cover-Literature-exam-2016.PDF" }]}]},
+{ "text" : "marine-and-maritime-studies", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "MMS-MultiChoice-20-2016-Green-7490-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Written-Front-Cover-Marine-and-Maritime-Studies-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/195333/Written-Front-Cover-Marine-and-Maritime-Studies-exam-2016.PDF" }]}]},
+{ "text" : "materials-design-and-technology", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Materials-Design-and-Technology_Examinat~ials-Design-and-Technology-provisional-practical-portfolio-marking-key_290116.DOCX", "type" : "doc", "url" : "web.archive.org/20170309110105/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0015/202920/Materials-Design-and-Technology_Examinat~ials-Design-and-Technology-provisional-practical-portfolio-marking-key_290116.DOCX" },
+{ "text" : "Materials-Design-and-Technology_Examinat~ials-Design-and-Technology-provisional-practical-portfolio-marking-key_290116.pdf", "type" : "pdf", "url" : "web.archive.org/20170309110058/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/202919/Materials-Design-and-Technology_Examinat~ials-Design-and-Technology-provisional-practical-portfolio-marking-key_290116.pdf" },
+{ "text" : "MDT-Declaration-of-authenticity-2016.DOCX", "type" : "doc", "url" : "web.archive.org/20170309110053/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0014/202172/MDT-Declaration-of-authenticity-2016.DOCX" },
+{ "text" : "MDT-Declaration-of-authenticity-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20170309110044/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0015/202173/MDT-Declaration-of-authenticity-2016_pdf.pdf" },
+{ "text" : "MDT-practical-portfolio-examination-requirements-document-50216.pdf", "type" : "pdf", "url" : "web.archive.org/20170309110035/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/74564/MDT-practical-portfolio-examination-requirements-document-50216.pdf" },
+{ "text" : "Written-Front-Cover-Materials-Design-and-Technology-exam-Section-3-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/195375/Written-Front-Cover-Materials-Design-and-Technology-exam-Section-3-2016.PDF" },
+{ "text" : "Written-Front-Cover-Materials-Design-and-Technology-exam-Section-1-and-2-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/195341/Written-Front-Cover-Materials-Design-and-Technology-exam-Section-1-and-2-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Materials-Design-and-Technology-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/195273/Practical-Front-Cover-Materials-Design-and-Technology-2016.PDF" },
+{ "text" : "Materials-Design-and-Technology_Examinat~Development_Guidelines-for-new-USB-practical-portfolio-submission_2016_231015_pdf.pdf", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0016/30094/Materials-Design-and-Technology_Examinat~Development_Guidelines-for-new-USB-practical-portfolio-submission_2016_231015_pdf.pdf" },
+{ "text" : "Materials-Design-and-Technology_Examinat~Development_Guidelines-for-new-USB-practical-portfolio-submission_2016_231015.DOCX", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0015/30093/Materials-Design-and-Technology_Examinat~Development_Guidelines-for-new-USB-practical-portfolio-submission_2016_231015.DOCX" }]}]},
+{ "text" : "mathematics-applications", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Mathematics_-Applications_Sample_Calc_Free_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20160312130254/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0016/10582/Mathematics_-Applications_Sample_Calc_Free_2016.PDF" },
+{ "text" : "Mathematics_Applications_Sample_Calc_Assumed_-Marking_Key_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20160312130244/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/37456/Mathematics_Applications_Sample_Calc_Assumed_-Marking_Key_2016.PDF" },
+{ "text" : "Mathematics_Applications_Sample_Calc_Assumed_Exam_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160312130236/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0014/10580/Mathematics_Applications_Sample_Calc_Assumed_Exam_2016.pdf" },
+{ "text" : "Mathematics_Applications_Sample_Calc_Free_Marking_Key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160312130259/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0017/10583/Mathematics_Applications_Sample_Calc_Free_Marking_Key_2016.pdf" },
+{ "text" : "Written-Front-Cover-Mathematics-Applications-Calc-Free-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/195352/Written-Front-Cover-Mathematics-Applications-Calc-Free-2016.PDF" },
+{ "text" : "Written-Front-Cover-Mathematics-Applications-Calc-Ass-Exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/195379/Written-Front-Cover-Mathematics-Applications-Calc-Ass-Exam-2016.PDF" }]}]},
+{ "text" : "mathematics-methods", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Mathematical_Methods_Sample_Calc_Free_exam_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170410070957/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/10687/Mathematical_Methods_Sample_Calc_Free_exam_2016.PDF" },
+{ "text" : "Mathematics_Methods_Formula_sheet_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20160312125951/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0015/52440/Mathematics_Methods_Formula_sheet_2016.PDF" },
+{ "text" : "Mathematics_Methods_Sample_Calc_Assumed_Exam_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20160312125954/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/10689/Mathematics_Methods_Sample_Calc_Assumed_Exam_2016.PDF" },
+{ "text" : "Mathematics_Methods_Sample_Calc_Assumed_marking_key_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20160312130001/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0016/10690/Mathematics_Methods_Sample_Calc_Assumed_marking_key_2016.PDF" },
+{ "text" : "Mathematics_Methods_Sample_Calc_Free_marking_key_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170410071058/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0017/10691/Mathematics_Methods_Sample_Calc_Free_marking_key_2016.PDF" },
+{ "text" : "Written-Front-Cover-Mathematical-Methods-Exam-Calc-Free-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/195340/Written-Front-Cover-Mathematical-Methods-Exam-Calc-Free-2016.PDF" },
+{ "text" : "Written-Front-Cover-Mathematical-Methods-Calc-Assumed-Exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/195358/Written-Front-Cover-Mathematical-Methods-Calc-Assumed-Exam-2016.PDF" }]}]},
+{ "text" : "mathematics-specialist", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "MAS_Sample_Calc_Assumed_Marking_Key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160312125717/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0016/10744/MAS_Sample_Calc_Assumed_Marking_Key_2016.pdf" },
+{ "text" : "Mathematics_Specialist_Formula_sheet_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20160312125702/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0020/52445/Mathematics_Specialist_Formula_sheet_2016.PDF" },
+{ "text" : "Mathematics_Specialist_Sample_Calc_Assumed_Exam_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20161019213057/http://wace1516.scsa.wa.edu.au:80/__data/assets/pdf_file/0015/10743/Mathematics_Specialist_Sample_Calc_Assumed_Exam_2016.PDF" },
+{ "text" : "Mathematics_Specialist_Sample_Calc_Free_Exam_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20161019213104/http://wace1516.scsa.wa.edu.au:80/__data/assets/pdf_file/0018/10746/Mathematics_Specialist_Sample_Calc_Free_Exam_2016.PDF" },
+{ "text" : "Mathematics_Specialist_Sample_Calc_Free_marking_key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160312125730/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0020/10748/Mathematics_Specialist_Sample_Calc_Free_marking_key_2016.pdf" },
+{ "text" : "Written-Front-Cover-Maths-Specialist-Calc-Free-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/195363/Written-Front-Cover-Maths-Specialist-Calc-Free-exam-2016.PDF" },
+{ "text" : "Written-Front-Cover-Maths-Specialist-Calc-Assumed-Exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0011/195365/Written-Front-Cover-Maths-Specialist-Calc-Assumed-Exam-2016.PDF" }]}]},
+{ "text" : "media-production-and-analysis", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Media-Production-and-Analysis_Examination-Development_2016-MPA-ATAR-course-provisional-marking-key_270116_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160324131340/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0020/74621/Media-Production-and-Analysis_Examination-Development_2016-MPA-ATAR-course-provisional-marking-key_270116_pdf.pdf" },
+{ "text" : "Media-Production-and-Analysis_Examination-Development_2016-Sample-Source-booklet-acknowledgements.pdf", "type" : "pdf", "url" : "web.archive.org/20160304043202/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/9661/Media-Production-and-Analysis_Examination-Development_2016-Sample-Source-booklet-acknowledgements.pdf" },
+{ "text" : "Media-Production-and-Analysis_Examination-Development_2016-Stimulus-circular-item-for-ATAR-course-written-examination.DOCX", "type" : "doc", "url" : "web.archive.org/20170309111133/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0003/202926/Media-Production-and-Analysis_Examination-Development_2016-Stimulus-circular-item-for-ATAR-course-written-examination.DOCX" },
+{ "text" : "Media-Production-and-Analysis_Examination-Development_2016-Stimulus-circular-item-for-ATAR-course-written-examination.pdf", "type" : "pdf", "url" : "web.archive.org/20170309111125/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/202927/Media-Production-and-Analysis_Examination-Development_2016-Stimulus-circular-item-for-ATAR-course-written-examination.pdf" },
+{ "text" : "Media_Production_and_Analysis_List_combined_resources_lists.DOCX", "type" : "doc", "url" : "web.archive.org/20180411071628/https://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0007/58804/Media_Production_and_Analysis_List_combined_resources_lists.DOCX" },
+{ "text" : "Media_Production_and_Analysis_List_combined_resources_lists_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20170309111114/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/58805/Media_Production_and_Analysis_List_combined_resources_lists_pdf.pdf" },
+{ "text" : "Media_Production_and_Analysis_Sample_Examination_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160304043153/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/9656/Media_Production_and_Analysis_Sample_Examination_2016.pdf" },
+{ "text" : "Media_Production_and_Analysis_Sample_Marking_key_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170309111049/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/9660/Media_Production_and_Analysis_Sample_Marking_key_2016.PDF" },
+{ "text" : "MPA-2016-practical-production-requirement-document-290116.pdf", "type" : "pdf", "url" : "web.archive.org/20170309111103/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/74565/MPA-2016-practical-production-requirement-document-290116.pdf" },
+{ "text" : "MPA-collaborative-form-2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170309111137/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0016/202183/MPA-collaborative-form-2016.PDF" },
+{ "text" : "MPA-declaration-of-authenticity-2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170309111148/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0017/202184/MPA-declaration-of-authenticity-2016.PDF" },
+{ "text" : "MPA-guidelines-for-the-individual-documentation-of-production-process-2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170309111158/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0018/202185/MPA-guidelines-for-the-individual-documentation-of-production-process-2016.PDF" },
+{ "text" : "MPA-production-submission-cover-sheet-2016.DOCX", "type" : "doc", "url" : "web.archive.org/20170309111221/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0019/202186/MPA-production-submission-cover-sheet-2016.DOCX" },
+{ "text" : "MPA-production-submission-cover-sheet-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20170309111212/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0020/202187/MPA-production-submission-cover-sheet-2016_pdf.pdf" },
+{ "text" : "Media_Production_and_Analysis_Glossary_of_Terms_pdf.pdf", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/58803/Media_Production_and_Analysis_Glossary_of_Terms_pdf.pdf" },
+{ "text" : "Practical-Front-Cover-Media-Production-and-Analysis-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/195274/Practical-Front-Cover-Media-Production-and-Analysis-2016.PDF" },
+{ "text" : "Written-Front-Cover-Media-Production-and-Analysis-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/195364/Written-Front-Cover-Media-Production-and-Analysis-exam-2016.PDF" },
+{ "text" : "Media_Production_and_Analysis_Glossary_of_Terms.doc", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0005/58802/Media_Production_and_Analysis_Glossary_of_Terms.doc" }]}]},
+{ "text" : "modern-history", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Modern_History_Sample_Examination_Document_Booklet_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20161019213045/http://wace1516.scsa.wa.edu.au:80/__data/assets/pdf_file/0007/10204/Modern_History_Sample_Examination_Document_Booklet_2016.PDF" },
+{ "text" : "Modern_History_Sample_exam_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160307162303/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/10202/Modern_History_Sample_exam_2016.pdf" },
+{ "text" : "Modern_History_Sample_Exam_Marking_Key_2016.PDF", "type" : "pdf", "url" : "web.archive.org/20160307162251/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/10203/Modern_History_Sample_Exam_Marking_Key_2016.PDF" },
+{ "text" : "Written-Front-Cover-Modern-History-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/195366/Written-Front-Cover-Modern-History-exam-2016.PDF" }]}]},
+{ "text" : "music", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Music-2016-Composition-portfolio-submission-form.PDF", "type" : "pdf", "url" : "web.archive.org/20170309112605/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0012/202242/Music-2016-Composition-portfolio-submission-form.PDF" },
+{ "text" : "Music-2016-Declaration-of-Accompanist.PDF", "type" : "pdf", "url" : "web.archive.org/20170309112623/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0013/202243/Music-2016-Declaration-of-Accompanist.PDF" },
+{ "text" : "Music-2016-Declaration-of-authenticity.PDF", "type" : "pdf", "url" : "web.archive.org/20170309112634/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0014/202244/Music-2016-Declaration-of-authenticity.PDF" },
+{ "text" : "Music-2016-Repertoire-cover-page.DOCX", "type" : "doc", "url" : "web.archive.org/20170309112651/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0015/202245/Music-2016-Repertoire-cover-page.DOCX" },
+{ "text" : "Music-2016-Repertoire-cover-page_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20170309112644/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0016/202246/Music-2016-Repertoire-cover-page_pdf.pdf" },
+{ "text" : "Music-ATAR-course-Practical-performance-and-or-composition-portfolio-examination-requirements-2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170309112530/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/74568/Music-ATAR-course-Practical-performance-and-or-composition-portfolio-examination-requirements-2016.pdf" },
+{ "text" : "Music-ATAR-course-Practical-performance-marking-key-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160324132018/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/74623/Music-ATAR-course-Practical-performance-marking-key-2016_pdf.pdf" },
+{ "text" : "Music-ATAR-course-Practicalcomposition-portfolio-marking-key-2016_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160324132015/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/74625/Music-ATAR-course-Practicalcomposition-portfolio-marking-key-2016_pdf.pdf" },
+{ "text" : "Practical-Front-Cover-Music-Examination-Option-2-Composition-portfolio-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/195276/Practical-Front-Cover-Music-Examination-Option-2-Composition-portfolio-2016.PDF" },
+{ "text" : "Written-Front-Cover-Music-WAM-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/195361/Written-Front-Cover-Music-WAM-exam-2016.PDF" },
+{ "text" : "Written-Front-Cover-Music-Contemporary-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/195370/Written-Front-Cover-Music-Contemporary-exam-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Music-Examination-Option-3-Performance-and-Composition-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/195281/Practical-Front-Cover-Music-Examination-Option-3-Performance-and-Composition-2016.PDF" },
+{ "text" : "Written-Front-Cover-Music-Jazz-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/195382/Written-Front-Cover-Music-Jazz-exam-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Music-Examination-Option-1-Performance-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0011/195275/Practical-Front-Cover-Music-Examination-Option-1-Performance-2016.PDF" }]}]},
+{ "text" : "outdoor-education", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "OED-MultiChoice-20-2016-Green-7490-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Outdoor-Education-exam-2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170224235406/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/344537/Outdoor-Education-exam-2016.PDF" }]}]},
+{ "text" : "philosophy-and-ethics", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Philosophy-and-Ethics-Exam-2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170224235412/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/344542/Philosophy-and-Ethics-Exam-2016.PDF" }]}]},
+{ "text" : "physical-education-studies", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "PES-MultiChoice-20-2016-Green-7490-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_AFL.doc", "type" : "doc", "url" : "web.archive.org/20170309113657/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0015/131244/Physical_Education_Studies_practical_examination_support_material_AFL.doc" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_AFL.pdf", "type" : "pdf", "url" : "web.archive.org/20170309113647/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0016/131245/Physical_Education_Studies_practical_examination_support_material_AFL.pdf" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Badminton.doc", "type" : "doc", "url" : "web.archive.org/20170309113723/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0017/131246/Physical_Education_Studies_practical_examination_support_material_Badminton.doc" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Badminton.pdf", "type" : "pdf", "url" : "web.archive.org/20170309113713/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0018/131247/Physical_Education_Studies_practical_examination_support_material_Badminton.pdf" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Basketball.doc", "type" : "doc", "url" : "web.archive.org/20170309113752/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0019/131248/Physical_Education_Studies_practical_examination_support_material_Basketball.doc" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Basketball.pdf", "type" : "pdf", "url" : "web.archive.org/20170309113735/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0020/131249/Physical_Education_Studies_practical_examination_support_material_Basketball.pdf" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Cricket.doc", "type" : "doc", "url" : "web.archive.org/20170309113828/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0012/131250/Physical_Education_Studies_practical_examination_support_material_Cricket.doc" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Cricket.pdf", "type" : "pdf", "url" : "web.archive.org/20170309113809/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0013/131251/Physical_Education_Studies_practical_examination_support_material_Cricket.pdf" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Hockey.doc", "type" : "doc", "url" : "web.archive.org/20170309113901/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0014/131252/Physical_Education_Studies_practical_examination_support_material_Hockey.doc" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Hockey.pdf", "type" : "pdf", "url" : "web.archive.org/20170309113857/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0015/131253/Physical_Education_Studies_practical_examination_support_material_Hockey.pdf" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Netball.doc", "type" : "doc", "url" : "web.archive.org/20170309113931/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0016/131254/Physical_Education_Studies_practical_examination_support_material_Netball.doc" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Netball.pdf", "type" : "pdf", "url" : "web.archive.org/20170309113922/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0017/131255/Physical_Education_Studies_practical_examination_support_material_Netball.pdf" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Soccer.doc", "type" : "doc", "url" : "web.archive.org/20170309114003/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0018/131256/Physical_Education_Studies_practical_examination_support_material_Soccer.doc" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Soccer.pdf", "type" : "pdf", "url" : "web.archive.org/20170309113949/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0019/131257/Physical_Education_Studies_practical_examination_support_material_Soccer.pdf" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Tennis.doc", "type" : "doc", "url" : "web.archive.org/20170309114036/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0020/131258/Physical_Education_Studies_practical_examination_support_material_Tennis.doc" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Tennis.pdf", "type" : "pdf", "url" : "web.archive.org/20170309114026/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/131259/Physical_Education_Studies_practical_examination_support_material_Tennis.pdf" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Touch.doc", "type" : "doc", "url" : "web.archive.org/20170309114107/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0013/131260/Physical_Education_Studies_practical_examination_support_material_Touch.doc" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Touch.pdf", "type" : "pdf", "url" : "web.archive.org/20170309114057/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0014/131261/Physical_Education_Studies_practical_examination_support_material_Touch.pdf" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Volleyball.doc", "type" : "doc", "url" : "web.archive.org/20170309114138/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0015/131262/Physical_Education_Studies_practical_examination_support_material_Volleyball.doc" },
+{ "text" : "Physical_Education_Studies_practical_examination_support_material_Volleyball.pdf", "type" : "pdf", "url" : "web.archive.org/20170309114127/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0016/131263/Physical_Education_Studies_practical_examination_support_material_Volleyball.pdf" },
+{ "text" : "Physical_Education_Studies_Practical_performance_examination_requirements_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20170309113633/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/74570/Physical_Education_Studies_Practical_performance_examination_requirements_2016.pdf" },
+{ "text" : "Practical-Front-Cover-Physical-Education-Studies-Cricket-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/195285/Practical-Front-Cover-Physical-Education-Studies-Cricket-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Physical-Education-Studies-Hockey-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/195286/Practical-Front-Cover-Physical-Education-Studies-Hockey-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Physical-Education-Studies-Netball-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/195287/Practical-Front-Cover-Physical-Education-Studies-Netball-2016.PDF" },
+{ "text" : "Written-Front-Cover-Physical-Education-Studies-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/195377/Written-Front-Cover-Physical-Education-Studies-exam-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Physical-Education-Studies-Soccer-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/195288/Practical-Front-Cover-Physical-Education-Studies-Soccer-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Physical-Education-Studies-Tennis-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/195289/Practical-Front-Cover-Physical-Education-Studies-Tennis-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Physical-Education-Studies-Touch-Football-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/195290/Practical-Front-Cover-Physical-Education-Studies-Touch-Football-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Physical-Education-Studies-AFL-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/195282/Practical-Front-Cover-Physical-Education-Studies-AFL-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Physical-Education-Studies-Volleyball-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/195291/Practical-Front-Cover-Physical-Education-Studies-Volleyball-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Physical-Education-Studies-Badminton-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/195283/Practical-Front-Cover-Physical-Education-Studies-Badminton-2016.PDF" },
+{ "text" : "Practical-Front-Cover-Physical-Education-Studies-Basketball-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0011/195284/Practical-Front-Cover-Physical-Education-Studies-Basketball-2016.PDF" }]}]},
+{ "text" : "physics", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Physics_Sample_Exam_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160315173148/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/14935/Physics_Sample_Exam_2016.pdf" },
+{ "text" : "Physics_Sample_Formulae_and_Data_booklet_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160910011054/http://wace1516.scsa.wa.edu.au:80/__data/assets/pdf_file/0013/14701/Physics_Sample_Formulae_and_Data_booklet_2016.pdf" },
+{ "text" : "Physics_Sample_Marking_Key_2016.pdf", "type" : "pdf", "url" : "web.archive.org/20160315173156/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0014/14702/Physics_Sample_Marking_Key_2016.pdf" },
+{ "text" : "Written-Front-Cover-Physics-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/195353/Written-Front-Cover-Physics-exam-2016.PDF" }]}]},
+{ "text" : "plant-production-systems", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "PPS-MultiChoice-20-2016-Green-7490-Draft,-VersiForm.PDF", "type" : "default", "url" : "-VersiForm.PDF" },
+{ "text" : "Written-Front-Cover-Plant-Production-Systems-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0009/195336/Written-Front-Cover-Plant-Production-Systems-exam-2016.PDF" }]}]},
+{ "text" : "politics-and-law", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Politics-and-Law-exam-2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170224235535/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/344582/Politics-and-Law-exam-2016.PDF" }]}]},
+{ "text" : "psychology", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Written-Front-Cover-Psychology-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/195346/Written-Front-Cover-Psychology-exam-2016.PDF" }]}]},
+{ "text" : "religion-and-life", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Written-Front-Cover-Religion-and-Life-exam-2016.PDF", "type" : "error", "url" : "http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/195384/Written-Front-Cover-Religion-and-Life-exam-2016.PDF" }]}]},
+{ "text" : "visual-arts", "children": [
+{ "text" : "sample", "state" : { "opened" : true }, "children": [
+{ "text" : "Artist-Statement-2016-Visual-Arts.DOCX", "type" : "doc", "url" : "web.archive.org/20170320072129/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0007/76813/Artist-Statement-2016-Visual-Arts.DOCX" },
+{ "text" : "Artist-Statement-2016-Visual-Arts.PDF", "type" : "pdf", "url" : "web.archive.org/20160327034123/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0004/75163/Artist-Statement-2016-Visual-Arts.PDF" },
+{ "text" : "Declaration-of-authenticity-Visual-Arts-2016.PDF", "type" : "pdf", "url" : "web.archive.org/20160327034130/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0003/75162/Declaration-of-authenticity-Visual-Arts-2016.PDF" },
+{ "text" : "Photographs-form-2016-Visual-Arts-practical-production-examination.DOCX", "type" : "doc", "url" : "web.archive.org/20170320072144/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0008/76814/Photographs-form-2016-Visual-Arts-practical-production-examination.DOCX" },
+{ "text" : "Photographs-form-2016-Visual-Arts-practical-production-examination.PDF", "type" : "pdf", "url" : "web.archive.org/20160327034154/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/75166/Photographs-form-2016-Visual-Arts-practical-production-examination.PDF" },
+{ "text" : "Production-validation-source-acknowledgements-2016-Visual-Arts.DOCX", "type" : "doc", "url" : "web.archive.org/20170320072106/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0009/76815/Production-validation-source-acknowledgements-2016-Visual-Arts.DOCX" },
+{ "text" : "Production-validation-source-acknowledgements-2016-Visual-Arts_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20170320072048/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0005/75164/Production-validation-source-acknowledgements-2016-Visual-Arts_pdf.pdf" },
+{ "text" : "Visual-Arts-Exam-2016.PDF", "type" : "pdf", "url" : "web.archive.org/20170224235554/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0010/344593/Visual-Arts-Exam-2016.PDF" },
+{ "text" : "Visual-Arts_Examination-Development_2016-Visual-Arts-Atar-course-practical-production-requirements-document_280116_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160327034203/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0007/74572/Visual-Arts_Examination-Development_2016-Visual-Arts-Atar-course-practical-production-requirements-document_280116_pdf.pdf" },
+{ "text" : "Visual-arts_Examination-Development_2016-Visual-Arts-provisional-practical-marking-key_30216_pdf.pdf", "type" : "pdf", "url" : "web.archive.org/20160327034150/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0008/74627/Visual-arts_Examination-Development_2016-Visual-Arts-provisional-practical-marking-key_30216_pdf.pdf" },
+{ "text" : "Visual-evidence-of-work-in-progress-2016-Visual-Arts.DOCX", "type" : "doc", "url" : "web.archive.org/20170320072117/http://wace1516.scsa.wa.edu.au/__data/assets/word_doc/0010/76816/Visual-evidence-of-work-in-progress-2016-Visual-Arts.DOCX" },
+{ "text" : "Visual-evidence-of-work-in-progress-2016-Visual-Arts.PDF", "type" : "pdf", "url" : "web.archive.org/20160327034223/http://wace1516.scsa.wa.edu.au/__data/assets/pdf_file/0006/75165/Visual-evidence-of-work-in-progress-2016-Visual-Arts.PDF" }]}]}]}]

@@ -1,0 +1,562 @@
+PROCESS Accounting_Finance                                                                                                                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ACF_public/Accounting_and_Finance_Stage_2_Examination_2010.pdf                                                                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ACF_public/Accounting_and_Finance_Stage_3_examination_2010.pdf                                                                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ACF_public/Accounting_and_Finance_Stage_2_information_booklet_2010.pdf                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ACF_public/Accounting_Stage_3_information_booklet_2010.pdf                                                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ACF_public/Accounting_and_Finance_Stage_2_Specifications_booklet_2010.pdf                                                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ACF_public/Accounting_and_Finance_Stage_3_Specifications_Booklet_2010.pdf                                                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m9.055s
+user	0m0.771s
+sys	0m8.776s
+PROCESS Ancient_History                                                                                                                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/HIA_public/Ancient_History_Stage_2_exam_2010.pdf                                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/HIA_public/Ancient_History_Stage_3_exam_2010.pdf                                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/HIA_public/Ancient_History_Stage_2_Document_booklet_2010.pdf                                                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/HIA_public/Ancient_History_Stage_3_Document_booklet_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m5.573s
+user	0m0.439s
+sys	0m5.547s
+PROCESS Animal_Production_Systems                                                                                                                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/APS_public/Animal_Production_Systems_Stage_2_examination_2010.pdf                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/APS_public/Animal_Production_Systems_Stage_3_Examination_2010.pdf                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m2.799s
+user	0m0.273s
+sys	0m2.778s
+PROCESS Applied_Information_Technology                                                                                                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/AIT_public/Applied_Information_Technology_Stage_2_examination_2010.pdf                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/AIT_public/Applied_Information_Technology_Stage_3_examination_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Applied_Information_Technology_2009_WACE_examination_Stage_2_PDF.pdf                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Applied_Information_Technology_2009_WACE_examination_Stage_3_PDF.pdf                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Applied_Information_Technology_2009_WACE_examination_Production_Booklet_Stage_2_A3_PDF.pdf                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Applied_Information_Technology_2009_WACE_examination_production_booklet_Stage_3_PDF.pdf                                                                          [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Applied_Information_Technology_Stage_3_WACE_Errata_2009_PDF.pdf                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m8.833s
+user	0m0.833s
+sys	0m8.669s
+PROCESS Aviation                                                                                                                                                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/AVI_public/Aviation_Stage_2_examination_2010.pdf                                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/AVI_public/Aviation_Stage_3_examination_2010.pdf                                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/AVI_public/Aviation_Stage_2_appendices_2010_web_only_version_pdf.pdf                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/AVI_public/Aviation_Stage_3_appendices_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Aviation_2009_WACE_examination_stage_2_written_PDF.pdf                                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Aviation_2009_WACE_examination_Stage_3_written_PDF.pdf                                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Aviation_Stage_2_WACE_appendices_2009_PDF.pdf                                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Aviation_Stage_3_WACE_Appendices_2009_PDF.pdf                                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m10.701s
+user	0m0.912s
+sys	0m10.465s
+PROCESS Biological_Sciences                                                                                                                                                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/BIO_public/Biological_Sciences_Stage_2_examination_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/BIO_public/Biological_Sciences_Stage_3_examination_2010.pdf                                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/BIO_public/Biological%20Sciences%20Stage%202_Erratum_2010_pdf.pdf                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m3.974s
+user	0m0.406s
+sys	0m3.846s
+PROCESS Business_Management_and_Enterprise                                                                                                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/BME_public/Business_Management_and_Enterprise_stage_2_exam_2010.pdf                                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/BME_public/Business_Management_and_Enterprise_Stage_3_exam_2010.pdf                                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/BME_public/Business_Management_and_Enterprise_Stage_3_examination_errata_2010.pdf                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m3.988s
+user	0m0.331s
+sys	0m3.859s
+PROCESS Career_and_Enterprise                                                                                                                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/CAE_public/Career_and_Enterprise_Stage_2_Exam_2010.pdf                                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/CAE_public/Career_and_Enterprise_Stage_3_examination_2010.pdf                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Career_and_Enterprise_2009_WACE_examination_Stage_2_PDF.pdf                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Career_and_Enterprise_2009_WACE_examination_stage_3_PDF.pdf                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m5.499s
+user	0m0.481s
+sys	0m5.324s
+PROCESS Chemistry                                                                                                                                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/CHE_public/Chemistry_Stage_2_examination_2010.pdf                                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/CHE_public/Chemistry_Stage_3_examination_2010.pdf                                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/CHE_public/Chemistry_Stage%202_Erratum_2010.pdf                                                                                                                                                          [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/CHE_public/Chemistry_Stage_2_and_3_Data_Sheet_examination_2010.pdf                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m5.218s
+user	0m0.543s
+sys	0m5.186s
+PROCESS Children_Family_and_the_Community                                                                                                                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/CFC_public/Children_Family_and_the_Community_Stage_2_exam_2010.pdf                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m1.445s
+user	0m0.106s
+sys	0m1.390s
+PROCESS Chinese_Second_Language                                                                                                                                                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/CSL_public/Chinese_Second_Language_Stage_3_written_exam_2010.pdf                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/CSL_public/Chinese_Second_Language_Stage_3_recording_script_2010_pdf.pdf                                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/CSL/CSL_examination_audio_Stage_3_2010.mp3                                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/CSL_public/Chinese_Second_Language_Stage_3_recording_script_2010_pdf.pdf                                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Chinese_Second_Language_2009_WACE_examination_stage_2_PDF.pdf                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/WEB_VERSION_ONLY_Chinese_Second_Language_2009_WACE_examination_written_Stage_3_pdf.pdf                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/CSL/CSL_Past_WACE_examination_Stage_2_Audio_2009.mp3                                                                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/CSL/CSL_Past_WACE_examination_Stage_3_Audio_2009.mp3                                                                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m9.989s
+user	0m0.952s
+sys	0m9.890s
+PROCESS Computer_Science                                                                                                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/CSC_public/Computer_Science_Stage_2_examination_2010.pdf                                                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/CSC_public/Computer_Science_Stage_3_Examination_2010.pdf                                                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/CSC_public/Computer_Science_Stage_3_Source_booklet_2010.pdf                                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Computer_Science_2009_WACE_examination_stage_2_written_PDF.pdf                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Computer_Science_2009_WACE_examination_written_Stage_3_PDF.pdf                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Computer_Science_Stage_3_WACE_Erratum_2009_PDF.pdf                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m7.882s
+user	0m0.927s
+sys	0m7.518s
+PROCESS Dance                                                                                                                                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Dance': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/DAN_public/Dance_Stage_2_exam_2010.pdf                                                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/DAN_public/Dance_Stage_3_exam_2010.pdf                                                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/DAN_public/Dance_Stage_2_and_Stage_3_Source_Booklet_2010.pdf                                                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Dance_2009_WACE_examination_Stage_2_written_PDF.pdf                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Dance_2009_WACE_examination_Stage_3_written_PDF.pdf                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_Dance_Stage_2_and_3_WACE_Source_Booklet_2009_PDF.pdf                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m7.923s
+user	0m0.786s
+sys	0m7.690s
+PROCESS Design                                                                                                                                                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Design': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/DES_public/Design_stage_2_exam_2010.pdf                                                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/DES_public/Design_Stage_3_exam_2010.pdf                                                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m2.663s
+user	0m0.272s
+sys	0m2.595s
+PROCESS Drama                                                                                                                                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Drama': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/DRA_public/Drama_Stage_2_Exam_2010.pdf                                                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/DRA_public/Drama_Stage_3_exam_2010.pdf                                                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Drama_2009_WACE_examination_Stage_2_written_pdf.pdf                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Drama_2009_WACE_examination_Stage_3_written_pdf.pdf                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m5.347s
+user	0m0.409s
+sys	0m5.275s
+PROCESS Earth_and_Environmental_Science                                                                                                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Earth_and_Environmental_Science': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/EES_public/Earth_and_Environmental_Science_Stage_2_exam_2010.pdf                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/EES_public/Earth_and_Environmental_Science_Stage_3_Exam_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Earth_and_Environmental_Science_2009_WACE_examination_Stage_2_written_pdf.pdf                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Earth_and_Environmental_Science_2009_WACE_examination_Stage_3_written_pdf.pdf                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m5.525s
+user	0m0.424s
+sys	0m5.308s
+PROCESS Economics                                                                                                                                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Economics': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ECO_public/Economics_Stage_2_exam_2010.pdf                                                                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ECO_public/Economics_Stage_3_Exam_2010.pdf                                                                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m2.721s
+user	0m0.286s
+sys	0m2.578s
+PROCESS Engineering_Studies                                                                                                                                                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Engineering_Studies': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/EST_public/Engineering_Studies_Stage_2_examination_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/EST_public/Engineering_Studies_Stage_3_examination_2010.pdf                                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/EST_public/Engineering_Studies_Stage_2_examination_errata_2010_pdf.pdf                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/EST_public/Engineering_Studies_Stage_2_Document_Booklet_2010.pdf                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/EST_public/Engineering_Studies_Stage_3_Document_Booklet_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/EST_public/Engineering_Studies_Data_Booklet_2010.pdf                                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Engineering_Studies_2009_WACE_examination_Stage_2_pdf.pdf                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Engineering_Studies_2009_WACE_examination_Stage_3_pdf.pdf                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Engineering%20Studies%20Stage%202%20WACE%20Errata%202009_pdf.pdf                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Engineering%20Studies%20Stage%203%20WACE%20Erratum%202009_pdf.pdf                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Engineering%20Studies%20Stage%202%20WACE%20Document%20Booklet%202009_pdf.pdf                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Engineering%20Studies%20Stage%202%20and%203%20WACE%20Data%20Book%202009_pdf.pdf                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m15.701s
+user	0m1.635s
+sys	0m15.445s
+PROCESS English                                                                                                                                                                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'English': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ENG_public/English_Stage_2_examination_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ENG_public/English%20Stage%203%20examination%202010_WEN_ONLY_VERSION_PDF.pdf                                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20English_2009_WACE_examination_stage_2_pdf.pdf                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20English_2009_WACE_examination_Stage_3_pdf.pdf                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m5.396s
+user	0m0.528s
+sys	0m5.227s
+PROCESS English_as_an_Additional_Language                                                                                                                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'English_as_an_Additional_Language': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/EALD_public/EALD_Stage_2_examination_2010.pdf                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/EALD_public/EALD_Stage_3_examination_2010.pdf                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/EALD_public/EALD_Stage_2_recording_script_2010_pdf.pdf                                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/EALD_public/EALD_Stage_3_recording_script_2010_pdf.pdf                                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/EALD/EALD_examination_audio_Stage_2_2010.mp3                                                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/EALD/EALD_examination_audio_Stage_3_2010.mp3                                                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20English_Additional_Language_Dialect_2009_WACE_examination_Stage_2_written_pdf.pdf                                                                          [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web_version_only_English_Additional_Language_Dialect_2009_WACE_examination_Stage_3_written_pdf.pdf                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/EALD/EALD_2009_Stage_2_and_3.mp3                                                                                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m11.824s
+user	0m1.163s
+sys	0m11.441s
+PROCESS Food_Science_and_Technology                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Food_Science_and_Technology': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/FST_public/Food_Science_and_Technology_Stage_2_exam_2010.pdf                                                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/FST_public/Food_Science_and_Technology_Stage_3_examination_2010.pdf                                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m2.678s
+user	0m0.195s
+sys	0m2.547s
+PROCESS French                                                                                                                                                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'French': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/FRE_public/French_Stage_2_exam_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/FRE_public/French_Stage_3_written_examination_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/FRE_public/French_Stage_2_examination_errata_2010.pdf                                                                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/FRE_public/French_Stage_2_Recording_script_2010_pdf.pdf                                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/FRE_public/French_Stage_3_recording_script_2010_pdf.pdf                                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/FRE/FRE_examination_audio_Stage_2_2010.mp3                                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/FRE/FRE_examination_audio_Stage_3_2010.mp3                                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m9.183s
+user	0m0.848s
+sys	0m8.970s
+PROCESS Geography                                                                                                                                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Geography': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/GEO_public/Geography_Stage_2_examination_2010.pdf                                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/GEO_public/Geography_Stage_3_examination_2010.pdf                                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m2.676s
+user	0m0.272s
+sys	0m2.560s
+PROCESS German                                                                                                                                                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'German': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/GER_public/German_Stage_3_exam_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/GER_public/German_Stage_3_Recording_Script_2010_pdf.pdf                                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/GER/GER_examination_audio_Stage_3_2010.mp3                                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m3.957s
+user	0m0.364s
+sys	0m3.968s
+PROCESS Health_Studies                                                                                                                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Health_Studies': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/HEA_public/Health_Studies_Stage_2_exam_2010.pdf                                                                                                                                                          [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/HEA_public/Health_Studies_Stage_3_exam_2010.pdf                                                                                                                                                          [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m2.164s
+user	0m0.333s
+sys	0m2.052s
+PROCESS Human_Biological_Science                                                                                                                                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Human_Biological_Science': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/HBS_public/Human_Biological_Science_Stage_2_exam_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/HBS_public/Human_Biological_Science_Stage_3_exam_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m2.347s
+user	0m0.302s
+sys	0m2.346s
+PROCESS Indonesian_Second_Language                                                                                                                                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Indonesian_Second_Language': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/IND_public/Indonesian_Second_Language_Stage_2_written_examination_2010.pdf                                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/IND_public/Indonesian_Second_Language_Stage_3_Written_Exam_2010.pdf                                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/IND_public/Indonesian_Second_Language_Stage_2_Recording_Script_2010_pdf.pdf                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/IND_public/Indonesian_Second_Language_Stage_3_Recording_script_2010_pdf.pdf                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/IND/IND_examination_audio_Stage_2_2010.mp3                                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/IND/IND_examination_audio_Stage_3_2010_track_1.mp3                                                                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/IND/IND_examination_audio_Stage_3_2010_track_2.mp3                                                                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m9.452s
+user	0m0.965s
+sys	0m9.393s
+PROCESS Integrated_Science                                                                                                                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Integrated_Science': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ISC_public/Integrated_Science_Stage_2_examination_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                          [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ISC_public/Integrated_Science_Stage_3_examination_2010.pdf                                                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ISC_public/Integrated_Science_Stage_2_exam_Formula_and_data_sheet_2010.pdf                                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ISC_public/Integrated_Science_Stage_3_exam_Formula_sheet_2010.pdf                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m5.492s
+user	0m0.516s
+sys	0m5.420s
+PROCESS Italian                                                                                                                                                                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Italian': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ITA_public/Italian_Stage_2_written_exam_2010.pdf                                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ITA_public/Italian_Stage_3_written_exam_2010.pdf                                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ITA_public/Italian_Stage_2_recording_script_2010_pdf.pdf                                                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/ITA_public/Italian_Stage_3_recording%20script_2010_pdf.pdf                                                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/ITA/ITA_examination_audio_Stage_2_2010.mp3                                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/ITA/ITA_examination_audio_Stage_3_2010.mp3                                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Italian_2009_WACE_examination_Stage_2_written_pdf.pdf                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Italian_2009_WACE_examination_Stage_3_written_pdf.pdf                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/ITA/ITA_2009_Stage_2_Part_A_listening.mp3                                                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/ITA/ITA_2009_Stage_3_Part_A_listening.mp3                                                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m13.107s
+user	0m1.269s
+sys	0m12.883s
+PROCESS Japanese_Second_Language                                                                                                                                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Japanese_Second_Language': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/JSL_public/Japanese_Second_Language_Stage_2_written_exam_2010.pdf                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/JSL_public/Japanese_Second_Language_Stage_3_written_exam_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/JSL_public/Japanese_Second_Language_Stage_2_recording_script_2010_pdf.pdf                                                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/JSL_public/Japanese_Second_Language_Stage_3_Recording_Script_2010_pdf.pdf                                                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/JSL/JSL_Respose_listeneing_examination_audio_Stage_2_2010.mp3                                                                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/files/audio/JSL/JSL_Respose_listeneing_examination_audio_Stage_3_2010.mp3                                                                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m8.253s
+user	0m0.710s
+sys	0m8.168s
+PROCESS Literature                                                                                                                                                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Literature': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/LIT_public/Literature_Stage_2_examination_2010.pdf                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/LIT_public/Literature_Stage_3_examination_2010.pdf                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/LIT_public/Literature_Stage_3_examination_erratum_2010_pdf.pdf                                                                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m4.107s
+user	0m0.427s
+sys	0m4.013s
+PROCESS Marine_and_Maritime                                                                                                                                                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Marine_and_Maritime': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MMT_public/Marine_and_maritime_Stage_2_Exam_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MMT_public/Marine_and_Maritime_Technology_Stage_3_examination_2010.pdf                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MMT_public/Marine_and_maritime_Stage_2_Appendix_2010.pdf                                                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MMT_public/Marine_and_Maritime_Technology_Stage_3_pages_20_and_21_of_exam_A3%20print_2010.pdf                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Marine_and_Maritime_Technology_2009_WACE_examination_Stage_2_written_pdf.pdf                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Marine_and_Maritime_Technology_2009_WACE_examination_stage_3_written_pdf.pdf                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Marine%20and%20Maritime%20Technology%20Stage%202%20WACE%20Appendix%201%202009_pdf.pdf                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Marine%20and%20Maritime%20Technology%20Stage%203%20Chart_AUS252%20_A3%20print_%202009_pdf.pdf                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Marine%20and%20Maritime%20Stage%203%20WACE%20Erratum%202009_pdf.pdf                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m12.096s
+user	0m1.010s
+sys	0m11.764s
+PROCESS Materials_Design_and_Technology                                                                                                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Materials_Design_and_Technology': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MDT_public/Materials_Design_and_Technology_Stage_2_exam_2010.pdf                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MDT_public/Materials_Design_and_Technology_Stage_3_exam_2010.pdf                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MDT_public/Materials_Design_and_Technology_Stage_3_examination_erratum_2010.pdf                                                                                                                          [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Materials_Design_Technology_2009_WACE_examination_Stage_2_pdf.pdf                                                                                          [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Materials_Design_Technology_2009_WACE_examination_Stage_3_pdf.pdf                                                                                          [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m6.775s
+user	0m0.745s
+sys	0m6.425s
+PROCESS Mathematics                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Mathematics': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_2AB_Calculator_Free_examination%202010.pdf                                                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_3A3B_calculator_free_examination_2010.pdf                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_2AB_Calculator_Assumed_examination_2010.pdf                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_3A3B_calculator_assumed_examination_2010.pdf                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_Formula_sheet_2A_2B_examination_2010.pdf                                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_3A3B_Formula_Sheet_examination_2010.pdf                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_2C2D_Calculator_Free_examination_2010.pdf                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_3C3D_Calculator_Free_examination_2010.pdf                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_2C2D_Calculator_Assumed_examination_2010.pdf                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_3C3D_Calculator_Assumed_examination_2010.pdf                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_2C2D_Formula_Sheet_examination_2010.pdf                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_3C3D_Formula_Sheet_examination_2010.pdf                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m14.933s
+user	0m1.619s
+sys	0m14.529s
+PROCESS Mathematics_Specialist                                                                                                                                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Mathematics_Specialist': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_Specialist_3AB_%20calculator_free_examination%202010.pdf                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_Specialist_3AB_examination_2010%20calc%20assumed.pdf                                                                                                                          [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_Specialist_Formula_sheet_Unit_3A_3B_20.pdf                                                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_Specialist_3C3D_Calculator_free_exam_2010.pdf                                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_Specialist_3C3D_Calculator_Assumed_exam_2010.pdf                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_Specialist_3C3D_Calculator_Assumed_Erratum_2010.pdf                                                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MAT_MAS_public/Mathematics_Specialist_3C3D_Formula_Sheet_examination_2010.pdf                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m9.179s
+user	0m0.789s
+sys	0m8.971s
+PROCESS Media_Production_and_Analysis                                                                                                                                                                                                                          [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Media_Production_and_Analysis': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MPA_public/Media_Production_and_Analysis_Stage_2_exam_2010.pdf                                                                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MPA_public/Media_Production_and_Analysis_Stage_3_exam_2010.pdf                                                                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MPA_public/Media_Production_and_Analysis_Stage_3_Source_Booklet_2010_WEB_ONLY_VERSION.pdf                                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MPA_public/Media_Production_and_Analysis_Stage_3_examination_erratum_2010.pdf                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Media_Production_and_Analysis_2009_WACE_examination_Stage_2_pdf.pdf                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Media_Production_and_Analysis_2009_WACE_examination_Stage_3_pdf.pdf                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m7.986s
+user	0m0.876s
+sys	0m7.962s
+PROCESS Modern_History                                                                                                                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Modern_History': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/HIM_public/Modern_History_Stage_2_examination_2010.pdf                                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/HIM_public/Modern_History_Stage_3_examination_2010.pdf                                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/HIM_public/2010%2030350%20Modern_History_Stage_3_Document_Booklet_Errata_2010_pdf.pdf                                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/HIM_public/Modern_History_Stage_2_Document_Booklet_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/HIM_public/Modern_History_Stage_3_Document_Booklet_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m6.583s
+user	0m0.591s
+sys	0m6.465s
+PROCESS Music                                                                                                                                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Music': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MUS_public/Music_Stage_2_Contemporary_exam_2010.pdf                                                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MUS_public/Music_Stage_2_Jazz_exam_2010.pdf                                                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/MUS_public/Music_Stage_2_examination_erratum_2010_pdf.pdf                                                                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m3.964s
+user	0m0.333s
+sys	0m3.902s
+PROCESS Outdoor_Education                                                                                                                                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Outdoor_Education': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/OED_public/Outdoor_Education_Stage_2_Exam_2010.pdf                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/OED_public/Outdoor_Education_Stage_3_Exam_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/OED_public/Outdoor_Education_Stage_2_Map_insert_2010.pdf                                                                                                                                                 [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Outdoor_Education_2009_WACE_examination_Stage_2_pdf.pdf                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Outdoor_Education_2009_WACE_examination_Stage_3_pdf.pdf                                                                                                    [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Outdoor%20Education%20Stage%202%20WACE%20Map%20Insert%202009_pdf.pdf                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m8.066s
+user	0m0.805s
+sys	0m7.856s
+PROCESS Philosophy_and_Ethics                                                                                                                                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Philosophy_and_Ethics': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PAE_public/Philosophy%20and%20Ethics%20Stage%202%20exam%202010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                  [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PAE_public/Philosophy_and_Ethics_Stage_3_exam_2010.pdf                                                                                                                                                   [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Philosophy_and_Ethics_2009_WACE_examination_Stage_2_pdf.pdf                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Philosophy_and_Ethics_2009_WACE_examination_Stage_3_pdf.pdf                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m5.525s
+user	0m0.362s
+sys	0m5.475s
+PROCESS Physical_Education_Studies                                                                                                                                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Physical_Education_Studies': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PES_public/Physical_Education_Studies_Stage_2_exam_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PES_public/Physical_Education_Studies_Stage_3_exam_WEB_ONLY_VERSION_PDF.pdf                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Physical_Education_Studies_2009_WACE_examination_Stage_2_pdf.pdf                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Physical_Education_Studies_2009_WACE_examination_Stage_3_pdf.pdf                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PES_public/2009%20PES%20practical%20examination.pdf                                                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m6.658s
+user	0m0.667s
+sys	0m6.494s
+PROCESS Physics                                                                                                                                                                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Physics': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PHY_public/Physics_Stage_2_examination_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PHY_public/Physics_Stage_3_examination_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                                     [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PHY_public/Physics_Stage_2_formulae_and_constants_sheet.pdf                                                                                                                                              [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PHY_public/Physics_Stage_3_Formulae_and_constants_sheet_2010.pdf                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m5.208s
+user	0m0.624s
+sys	0m5.032s
+PROCESS Plant_Production_Systems                                                                                                                                                                                                                               [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Plant_Production_Systems': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PPS_public/Plant_Production_Systems_Stage_%202_Examination_2010.pdf                                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PPS_public/Plant_Production_Systems_Stage_3_Examination_2010.pdf                                                                                                                                         [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m2.647s
+user	0m0.363s
+sys	0m2.471s
+PROCESS Politics_and_Law                                                                                                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Politics_and_Law': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PAL_public/Politics_and_Law_Stage_2%20examination_2010_WEB_ONLY_VERSION_PDF.pdf                                                                                                                          [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PAL_public/Politics_and_Law_Stage_3_exam_2010.pdf                                                                                                                                                        [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m2.682s
+user	0m0.288s
+sys	0m2.535s
+PROCESS Psychology                                                                                                                                                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Psychology': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PSY_public/Psychology_Stage_2_examination_2010.pdf                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/PSY_public/Psychology_Stage_3_examination_2010.pdf                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+   CHANGE YEAR 2009                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Psychology_2009_WACE_examination_Stage_2_pdf.pdf                                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/Past_WACE_Examinations/Web%20version%20only%20Psychology_2009_WACE_examination_Stage_3_pdf.pdf                                                                                                           [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m5.461s
+user	0m0.451s
+sys	0m5.323s
+PROCESS Religion_and_Life                                                                                                                                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Religion_and_Life': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/RAL_public/Religion_and_Life_Stage_2_exam_2010.pdf                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/RAL_public/Religion_and_Life_Stage_3_exam_2010.pdf                                                                                                                                                       [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/RAL_public/Religion_and_Life_examination_erratum_2010.pdf                                                                                                                                                [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m3.981s
+user	0m0.394s
+sys	0m3.952s
+PROCESS Visual_Arts                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+rm: cannot remove 'Visual_Arts': No such file or directory
+   CHANGE YEAR 2010                                                                                                                                                                                                                                            [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/VIS_public/Visual_Arts_Stage_2_exam_2010.pdf                                                                                                                                                             [1;34m[  [1;36mINFO[1;34m  ][0m
+       CHECK curriculum.wa.edu.au/internet/_Documents/VIS_public/Visual_Arts_Stage_3_examination_2010.pdf                                                                                                                                                      [1;34m[  [1;36mINFO[1;34m  ][0m
+
+real	0m2.682s
+user	0m0.377s
+sys	0m2.514s
