@@ -57,7 +57,7 @@ for dir in $(ls -1vd */); do
                     echo "]}," >> "$OUTFILE"
                 done <<< "$(ls -1v "$dir/2007-2008_wace_draft.sort" | grep 'sort')"
                 ;;
-            2009|2010|2011|2012|2013|2014|2015|2006_wace_draft)
+            2009|2009_samples|2010|2011|2012|2013|2014|2015|2006_wace_draft)
                 echo '{ "text" : "'${year//.sort/}'", "state" : { "opened" : false }, "children": [' >> "$OUTFILE"
                 SOURCE="$dir/$year"
                 doc

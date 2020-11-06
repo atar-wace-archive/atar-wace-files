@@ -1,6 +1,7 @@
 DIR1=./WACE_old_09-15
 DIR2=./WACE_old_09-10_CC
 DIR3=./WACE_old_arc
+DIR4=./AUTOPATCH
 OUT=./WACE_old_RESOLVED
 
 mkdir -p "$OUT"
@@ -28,16 +29,19 @@ for SUBJECT in $(find "$DIR1" -type d | sed 's|.*/||' | tail -n+2); do
                 if [ -a "$DIR2/$SUBJECT/$YEAR" ]; then
                     DIRS=(${DIRS[@]} "$DIR2/$SUBJECT/$YEAR")
                 fi
+                if [ -a "$DIR4/$SUBJECT/$YEAR" ]; then
+                    DIRS=(${DIRS[@]} "$DIR4/$SUBJECT/$YEAR")
+                fi
                 if [ ${#DIRS[@]} -gt 0 ]; then
                     cat ${DIRS[@]} | sort -t'^' -k1 -u -f > "$OUT/$SUBJECT/$YEAR"
-                    rm "$OUT/$SUBJECT/$YEAR.tmp"
+                    # rm "$OUT/$SUBJECT/$YEAR.tmp"
                     c=1
                     while [ $c -le $(wc -l < "$OUT/$SUBJECT/$YEAR") ]; do
                         # echo "$REPLY"
                         test="$(awk 'NR=='$c "$OUT/$SUBJECT/$YEAR" | sed 's|.*/||')"
                         if [ "$(grep "$test" "$OUT/$SUBJECT/$YEAR")" ]; then
-                            awk 'NR=='$c "$OUT/$SUBJECT/$YEAR" | sed 's|.*/||'
-                            awk '!/'${test}'$/ || !f++' "$OUT/$SUBJECT/$YEAR" > "$OUT/$SUBJECT/$YEAR.tmp" #NEED TO ADD BACK THE SORTING FUNCTIONALITY!!! NOT ACTUALLY SORTED BY FILENAME (??? Need to be verified??? Is this a problem?)
+                            echo "$test"
+                            awk '!/'"${test}"'$/ || !f++' "$OUT/$SUBJECT/$YEAR" > "$OUT/$SUBJECT/$YEAR.tmp" #NEED TO ADD BACK THE SORTING FUNCTIONALITY!!! NOT ACTUALLY SORTED BY FILENAME (??? Need to be verified??? Is this a problem?)
                             mv "$OUT/$SUBJECT/$YEAR.tmp" "$OUT/$SUBJECT/$YEAR"
                         fi
                         ((c++))
