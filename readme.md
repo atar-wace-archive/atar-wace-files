@@ -1,4 +1,4 @@
-#GO TO `ALL/` AND FIND `root.json` FOR THE RESULTING FILE FROM THIS PROCESS.
+# GO TO `ALL/` AND FIND `root.json` FOR THE RESULTING FILE FROM THIS PROCESS.
 
 You need to run get.sh for all directories to get the exams files for each subject for each year.
 You can also manually add subject files through the PATCH/ directory
@@ -19,7 +19,7 @@ Run `make-links.sh` If you are NOT on windows, you need to replace `cmd //c mkli
 Finally, to make `root.json` use `make-tree.sh`
 `root.json` will be in the `ALL/` directory
 
-#Removed files
+# Removed files
 These files were deleted manually to make git happy.
 ```
 rm WACE_DRAFT_CC/earth_and_environmental_science/The\ sample\ examination\ paper\,\ marking\ guidelines\ and\ mapping-to-the-grid\ have\ been\ sent\ to\ schools.\ They\ will\ be\ available\ on\ the\ website\ from\ 1\ July.
