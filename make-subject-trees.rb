@@ -24,7 +24,7 @@ subjects = Array.new
 urls = Array.new
 today = Date.today.strftime("%Y-%m-%d")
 
-system("mkdir -p '"+tmpdirectory+"'; jq -c 'walk(if type == \"object\" then if has(\"text\") then .name=.text|del(.text) else . end | try del(.state) | if has(\"url\") then .children=[.type,.url]|del(.type,.url) else . end else . end) | .[][]|try .[]' ALL/root.json > './__noooot__.json'")
+system("mkdir -p '"+tmpdirectory+"'; jq -c 'walk(if type == \"object\" then if has(\"text\") then .name=.text|del(.text) else . end | try del(.state) | if has(\"url\") then .children=[.type,.url,(.name|gsub(\"[_-]\";\" \")|gsub(\"%20\";\" \"))]|del(.type,.url) else . end else . end) | .[][]|try .[]' ALL/root.json > './__noooot__.json'")
 
 File.readlines('./__noooot__.json').each do |line|
     tree = TreeNode.from_json(line).render
@@ -97,7 +97,8 @@ File.open(tmpdirectory+'/index.html', 'w') do |file|
         ├── 2010
         |   ├── [file name]
         |   |   ├── [type] ⚠️NOTE: Error => File is not archived, you cannot access it :(
-        |   |   └── [file URL]</pre></tt>
+        |   |   ├── [file URL]
+        |   |   └── [Human-readable/SEO name] For search engine purposes - _,-,%20 all substituted with space.</pre></tt>
     </div>
 </div>
 
